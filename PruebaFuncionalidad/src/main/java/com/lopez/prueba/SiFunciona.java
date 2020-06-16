@@ -1,6 +1,6 @@
 package com.lopez.prueba;
 
 public class SiFunciona {
-	public String Si ="pwasfdgfhgjkgfdgfdgfdgfdg33333-----";
+	public String Si ="ya funciono esta mrd-----";
 
 }
